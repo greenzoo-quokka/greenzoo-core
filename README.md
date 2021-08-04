@@ -4,11 +4,14 @@
 스프링 부트 버전 : 2.5.3
 
 # greenzoo-logger
-* 로그 프로젝트
+* 스프링부트 로그 프로젝트
+
+# greenzoo-actuator
+* 스프링부트 모니터링 프로젝트
 
 
 # Git 명령어
-1. 커밋 : git commit -am "init greenzoo-logger project"
-2. 폴더포함 전체 add : git add *
+1. 폴더포함 전체 add : git add *
+2. 커밋 : git commit -am "end greenzoo-actuator project"
 3. GitHub로 Push : git push --set-upstream master master
 

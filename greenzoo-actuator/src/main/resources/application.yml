@@ -1,0 +1,17 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+    shutdown:
+        enabled: true
+server:
+  port: 8080
+
+spring:
+  boot:
+    admin:
+      client:
+        url: 'http://localhost:8080'
+        instance:
+          service-url: 'http://localhost:8080'
