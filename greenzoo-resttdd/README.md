@@ -35,21 +35,18 @@
         "self" : {
             "href" : "http://localhost~~~"
         },
-        "events" : {
+		"get-account" : {
+            "href" : "http://localhost~~~"
+		},
+        "create-account" : {
             "href" : "http://localhost~~~"
         },
-        "get-an-event" : {
+        "update-account" : {
             "href" : "http://localhost~~~"
         },
-        "profile" : {
+        "delete-account" : {
             "href" : "http://localhost~~~"
         }
-    },
-    "page" : {
-        "size" : n,
-        "total" : n,
-        "totalpage" : n,
-        "number" : n
     }
 }
 ```
