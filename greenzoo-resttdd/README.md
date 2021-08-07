@@ -37,7 +37,7 @@
         },
 		"get-account" : {
             "href" : "http://localhost~~~"
-		},
+        },
         "create-account" : {
             "href" : "http://localhost~~~"
         },
