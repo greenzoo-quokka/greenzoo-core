@@ -15,6 +15,9 @@
 # greenzoo-resttdd
 * RESTFUL API && TDD
 
+# greenzoo-jpa
+* JPA 예제 프로젝트
+
 # Git 명령어
 1. 폴더포함 전체 add : git add *
 2. 커밋 : git commit -am "init greenzoo-jpa project"
