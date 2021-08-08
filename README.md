@@ -20,6 +20,6 @@
 
 # Git 명령어
 1. 폴더포함 전체 add : git add *
-2. 커밋 : git commit -am "init greenzoo-jpa project"
+2. 커밋 : git commit -am "end greenzoo-jpa project"
 3. GitHub로 Push : git push --set-upstream master master
 
