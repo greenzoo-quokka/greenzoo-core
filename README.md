@@ -18,8 +18,11 @@
 # greenzoo-jpa
 * JPA 예제 프로젝트
 
+# greenzoo-oauth2
+* OAuth2 예제 프로젝트
+
 # Git 명령어
 1. 폴더포함 전체 add : git add *
-2. 커밋 : git commit -am "end greenzoo-jpa project"
+2. 커밋 : git commit -am "end greenzoo-oauth2 project"
 3. GitHub로 Push : git push --set-upstream master master
 

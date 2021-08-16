@@ -1,0 +1,27 @@
+spring:
+  mvc:
+    view:
+      prefix: '/WEB-INF/jsp/'
+      suffix: '.jsp'
+  h2:
+    console:
+      enabled: true
+      path: /console
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 1037976288007-chcb0l5llu51vmgtkg8e4jh99evb2tu1.apps.googleusercontent.com
+            client-secret: 7bO1wcbLVFUZSy1XswwH3obr
+          facebook:
+            client-id: 432969091347693
+            client-secret: 9af44350360ccba5ba90c98613e87fe0
+custom:
+  oauth2:
+    kakao:
+      client-id: c6a2efed8d5e0acece50ee7359dd9a61
+      client-secret: hiVG5kVS3X9AFIl6gOvhusQYFdUVouVU
+    naver:
+      client-id: 2jZvZFm1U4k1tli9PxCl
+      client-secret: PPWWe5YqZR
